@@ -1,0 +1,14 @@
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\bin\Debug\net6.0\RegisterApiDAL.deps.json
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\bin\Debug\net6.0\RegisterApiDAL.runtimeconfig.json
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\bin\Debug\net6.0\RegisterApiDAL.dll
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\bin\Debug\net6.0\RegisterApiDAL.pdb
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.csproj.AssemblyReference.cache
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.AssemblyInfoInputs.cache
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.AssemblyInfo.cs
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.csproj.CoreCompileInputs.cache
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.dll
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\refint\RegisterApiDAL.dll
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.pdb
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\RegisterApiDAL.genruntimeconfig.cache
+D:\.Net\POC_Ashoth\RegisterAPI\RegisterApiDAL\obj\Debug\net6.0\ref\RegisterApiDAL.dll
